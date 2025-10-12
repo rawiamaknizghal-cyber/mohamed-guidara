@@ -1,0 +1,26 @@
+#p{
+    color: brown;
+    font-size:xx-large ;
+}
+.g{
+    border-radius: 8px;
+    display:block;
+    margin-left: 150%;
+    width: 30%;
+}
+#p1{
+    border-radius: 8px;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30px;
+}
+button{
+    border: 5px;
+    border-radius: 8px;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30px;
+}
+
