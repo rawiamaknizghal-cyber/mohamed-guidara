@@ -23,4 +23,12 @@ button{
     margin-right: auto;
     width: 30px;
 }
+a{
+    display: inline-block;
+
+}
+video{
+    width: 1000px;
+    height:500px
+}
 
